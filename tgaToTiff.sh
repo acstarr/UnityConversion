@@ -1,4 +1,5 @@
 #!/bin/bash
+# Adam Starr 2017-06-13
 # go through inputs given and convert .tga to .tiff
 
 for x in *.tga; do 
